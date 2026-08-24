@@ -1,3 +1,4 @@
 dotenv
 claude-agent-sdk
 langsmith[claude-agent-sdk]
+openai-agents
