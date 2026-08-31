@@ -2,3 +2,6 @@ dotenv
 claude-agent-sdk
 langsmith[claude-agent-sdk]
 openai-agents
+graphviz
+openai-agents[viz]
+langsmith[openai-agents]
