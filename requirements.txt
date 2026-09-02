@@ -5,3 +5,4 @@ openai-agents
 graphviz
 openai-agents[viz]
 langsmith[openai-agents]
+pydantic
